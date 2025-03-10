@@ -1,4 +1,4 @@
-version: '3.8'  # 使用的 Docker Compose 文件版本
+version: '3.9'  # 使用的 Docker Compose 文件版本
 
 services:
   frontend:
